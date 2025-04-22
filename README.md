@@ -21,7 +21,7 @@
 ---
 
 ### 🚀 Featured Projects
-- **[Portfolio Website](muhammad-aamish-portfolio.vercel.app/)**: React app using Tailwind Css for my personal portfolio showcasing my skills and projects. 
+- **[Portfolio Website](https://muhammad-aamish-portfolio.vercel.app/)**: React app using Tailwind Css for my personal portfolio showcasing my skills and projects. 
 - **[SinoAi-App](https://sinoaiadvisory.com/)**: A scalable Next.js app for Client in whhich many technologies is used.
 - **[Ecommerce-App](https://github.com/aamish9798/react-redux-ecommerce-mart)**: A sleek React app in which Redux is used for manage the State of ecommerce mart.
 - **[My Weather App](https://github.com/aamish9798/weather-app)**: A refined Angular app for real-time weather updates using Axios.
