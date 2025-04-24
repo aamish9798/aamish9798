@@ -15,7 +15,7 @@
 ### 🛠️ Technologies & Tools
 - **Languages:** JavaScript, HTML, CSS
 - **Frameworks/Libraries:** React.js, Next.js, Angular.js, bootstrap, Tailwind CSS, Chakra UI
-- **Tools:** Git, VS Code, Figma
+- **Tools:** Git, VS Code, Figma, Docker
 - **Currently Exploring:** TypeScript, Express.js, Node.js, and Backend Development
 
 ---
